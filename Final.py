@@ -51,7 +51,7 @@ cursor.execute("insert into Department values(9,'Accounting and Finance','Employ
 cursor.execute("insert into Department values(10,'Animation','Employee',1)")
 
 cursor.execute("insert into login values('Nitishkumar','Nitish@2810')")
-
+cursor.execute("insert into login values('LohithR22','Lohith220703')")
 
 cursor.execute("insert into Salary values(1, 20000, 400, 600, 1200, 17800)")
 cursor.execute("insert into Salary values(2, 35000, 700, 1050, 2100, 31150)")
