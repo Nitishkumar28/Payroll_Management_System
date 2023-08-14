@@ -48,7 +48,7 @@ Acknowledgments
 This project was developed by Nitish Kumar Yarlagadda and Lohith R Gowda.
 
 Note:
-MySQL Database Setup
+1) MySQL Database Setup
 Install MySQL on your system if you haven't already.
 Open your MySQL command-line client or a MySQL GUI tool (such as phpMyAdmin).
 Create a new database named "project":
@@ -61,8 +61,8 @@ Connect to the "project" database:
 
        USE project;
    
-Run the provided SQL script (included in the project files) to create the necessary tables and sample data. This script will create tables for employee records, departments, salaries, incentives, and login credentials.
+3) Run the provided SQL script (included in the project files) to create the necessary tables and sample data. This script will create tables for employee records, departments, salaries, incentives, and login credentials.
 
 Note: During the setup process, you will be prompted to enter passwords and other data. Make sure to remember the password you set up for your MySQL database. The password created by you must be changed in line number 4 by filling the quotes of passw with your new password.
       
-5. Pre-defined login details can be found on lines 53 and 54.
+4) Pre-defined login details can be found on lines 53 and 54.
