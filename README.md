@@ -37,11 +37,17 @@ Getting Started:
    
 Usage
 1) Login or Sign Up: Choose between logging in if you have an account or signing up if you are a new user.
+   
 2) Main Menu: Once logged in, you'll be directed to the main menu. Select options to perform tasks such as adding/deleting employees, updating details, generating reports, and managing salaries, and incentives.
+   
 3) Employee and Department Management: You can add new employee records, assign departments and designations, update employee details, or delete employee records.
+   
 4) Salary Management: Update employee salaries and view salary details, including basic, HRA, DA, tax, and net salary.
+    
 5) Incentive Management: Calculate and update employee incentives based on default rates or by the department.
+   
 6) Reports: Generate reports to view employee details based on different criteria like designation, department, salary, and number of projects.
+ 
 7) Logout: Exit the system and log out from your account.
 
 Acknowledgments
